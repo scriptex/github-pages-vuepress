@@ -4,37 +4,37 @@ Use [VuePress](https://vuepress.vuejs.org/) to built a static website and deploy
 
 ## Install
 
-```javascript
+```console
 npm install
 ```
 
 or
 
-```javascript
+```console
 yarn;
 ```
 
 ## Develop
 
-```javascript
+```console
 npm run start
 ```
 
 or
 
-```javascript
+```console
 yarn start
 ```
 
 ## Build
 
-```javascript
+```console
 npm run start
 ```
 
 or
 
-```javascript
+```console
 yarn start
 ```
 
@@ -52,12 +52,12 @@ See this page server via Gitlab Pages on ...
 
 ## Deployment Info
 
-1.  Create a new personal access token from https://github.com/settings/tokens/new
+1. Create a new personal access token from https://github.com/settings/tokens/new
 
-    -   set the name of the token
-    -   select `public_repo` checkbox
+    * set the name of the token
+    * select `public_repo` checkbox
 
-2.  On the Travis settings for the repository https://travis-ci.org/<me>/<myrepo>/settings create an environment variable:
+2. On the Travis settings for the repository https://travis-ci.org/<me>/<myrepo>/settings create an environment variable:
 
 ```
 GITHUB_API_KEY=<token>
@@ -67,7 +67,7 @@ GITHUB_API_KEY=<token>
 
 Mark _Display value in build log_ as _Off_
 
-3.  Add the following to your `.travis.yml` file
+3. Add the following to your `.travis.yml` file
 
 ```
 after_success: |
