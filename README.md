@@ -40,11 +40,11 @@ yarn start
 
 ## Details
 
-The `README.md` file in the root server the purpose of `index.html` file.
+The `README.md` file in the root serves the purpose of `index.html` file.
 
 If you wish to create new pages, you can do so by adding new `.md` files in the root.
 
-If you wish to use a more complicated files/folders structure, make sure that you read and follow the reference in https://vuepress.vuejs.org/
+If you wish to use a more complicated files/folders structure, make sure that you read and follow the [VuePress usage reference](https://vuepress.vuejs.org/).
 
 ## Demo
 
@@ -52,12 +52,12 @@ See this page server via Gitlab Pages on ...
 
 ## Deployment Info
 
-1. Create a new personal access token from https://github.com/settings/tokens/new
+1.  Create a new personal access token from https://github.com/settings/tokens/new
 
-    * set the name of the token
-    * select `public_repo` checkbox
+    -   set the name of the token
+    -   select `public_repo` checkbox
 
-2. On the Travis settings for the repository https://travis-ci.org/<me>/<myrepo>/settings create an environment variable:
+2.  On the Travis settings for the repository https://travis-ci.org/<me>/<myrepo>/settings create an environment variable:
 
 ```
 GITHUB_API_KEY=<token>
@@ -67,7 +67,7 @@ GITHUB_API_KEY=<token>
 
 Mark _Display value in build log_ as _Off_
 
-3. Add the following to your `.travis.yml` file
+3.  Add the following to your `.travis.yml` file
 
 ```
 after_success: |
