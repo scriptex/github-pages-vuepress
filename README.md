@@ -31,13 +31,13 @@ yarn start
 ## Build
 
 ```console
-npm run start
+npm run build
 ```
 
 or
 
 ```console
-yarn start
+yarn build
 ```
 
 ## Details
