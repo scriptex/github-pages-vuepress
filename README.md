@@ -1,4 +1,12 @@
+[![GitHub stars](https://img.shields.io/github/stars/scriptex/github-pages-vuepress.svg?style=social&label=Stars)](https://github.com/scriptex/github-pages-vuepress)
+[![GitHub forks](https://img.shields.io/github/forks/scriptex/github-pages-vuepress.svg?style=social&label=Fork)](https://github.com/scriptex/github-pages-vuepress/network#fork-destination-box)
+[![GitHub issues](https://img.shields.io/github/issues/scriptex/github-pages-vuepress.svg)](https://github.com/scriptex/github-pages-vuepress/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/scriptex/github-pages-vuepress.svg)](https://github.com/scriptex/github-pages-vuepress/commits/master)
 [![Build Status](https://travis-ci.org/scriptex/github-pages-vuepress.svg?branch=master)](https://travis-ci.org/scriptex/github-pages-vuepress)
+[![license](https://img.shields.io/github/license/scriptex/github-pages-vuepress.svg)](https://github.com/scriptex/github-pages-vuepress)
+[![Analytics](https://ga-beacon.appspot.com/UA-83446952-1/github.com/scriptex/github-pages-vuepress/README.md)](https://github.com/scriptex/github-pages-vuepress/)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/scriptex/github-pages-vuepress/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/scriptex/github-pages-vuepress/graphs/commit-activity)
 
 # VuePress Github Pages
 
