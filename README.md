@@ -68,6 +68,74 @@ VuePress builds your static website in the `/docs` folder which is set to be use
 
 See this page server via Gitlab Pages on https://scriptex.github.io/github-pages-vuepress/
 
+## Bonus: Theming
+
+Vuepress uses [Stylus](http://stylus-lang.com/). It comes with default theme which can be easily overwritten. 
+
+Here are the **default theme** colors:
+
+```stylus
+$accentColor = #3eaf7c
+$textColor = #2c3e50
+$borderColor = #eaecef
+$codeBgColor = #282c34
+```
+
+Here are the colors and settings for a **Material Light** theme:
+
+```stylus
+$accentColor = #009688
+$textColor = #212121
+$borderColor = #bdbdbd
+$codeBgColor = #333
+$bgColor = #fff
+
+html,
+body,
+.navbar,
+.sidebar,
+.theme-container .navbar,
+.theme-container .sidebar
+	background-color $bgColor
+
+.theme-container .search-box input
+	color $codeBgColor
+
+.theme-container .search-box .suggestion a
+	color $accentColor
+
+.theme-container .content code
+	color $bgColor
+	background-color $codeBgColor
+```
+
+Here are the color for a **Material Dark** theme (used in my personal website):
+
+```stylus
+$accentColor = #ef4c23
+$textColor = #fff
+$borderColor = #bdbdbd
+$codeBgColor = #000
+$bgColor = #263238
+
+html,
+body,
+.navbar,
+.sidebar,
+.theme-container .navbar,
+.theme-container .sidebar
+	background-color $bgColor
+
+.theme-container .search-box input
+	color: $codeBgColor
+
+.theme-container .search-box .suggestion a
+	color: $accentColor
+
+.theme-container .content code
+	background-color $codeBgColor
+```
+
 ## LICENSE
 
 MIT
