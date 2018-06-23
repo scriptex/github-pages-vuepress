@@ -70,7 +70,7 @@ See this page server via Gitlab Pages on https://scriptex.github.io/github-pages
 
 ## Bonus: Theming
 
-Vuepress uses [Stylus](http://stylus-lang.com/). It comes with default theme which can be easily overwritten. 
+Vuepress uses [Stylus](http://stylus-lang.com/). It comes with default theme which can be easily overwritten.
 Just place your styles in the `override.styl` file in the `.vuepress` folder.
 
 Here are the **default theme** colors:
