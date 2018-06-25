@@ -8,6 +8,8 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/scriptex/github-pages-vuepress/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/scriptex/github-pages-vuepress/graphs/commit-activity) [![Greenkeeper badge](https://badges.greenkeeper.io/scriptex/github-pages-vuepress.svg)](https://greenkeeper.io/)
 
+[![ForTheBadge built-with-love](https://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/scriptex/)
+
 # VuePress Github Pages
 
 Use [VuePress](https://vuepress.vuejs.org/) to built a static website and deploy on [Github Pages](https://pages.github.com/).
