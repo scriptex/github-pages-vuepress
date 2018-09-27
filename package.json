@@ -15,6 +15,6 @@
 	"author": "Atanas Atanasov <scriptex.bg@gmail.com> (https://atanas.info)",
 	"license": "MIT",
 	"devDependencies": {
-		"vuepress": "0.10.2"
+		"vuepress": "0.14.4"
 	}
 }
