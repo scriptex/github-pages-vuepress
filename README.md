@@ -16,37 +16,37 @@ Start by forking or downloading this repository. If downloaded, extract the cont
 
 ## Install
 
-```console
+```sh
 npm install
 ```
 
 or
 
-```console
+```sh
 yarn
 ```
 
 ## Develop
 
-```console
+```sh
 npm run start
 ```
 
 or
 
-```console
+```sh
 yarn start
 ```
 
 ## Build
 
-```console
+```sh
 npm run build
 ```
 
 or
 
-```console
+```sh
 yarn build
 ```
 
@@ -62,7 +62,7 @@ VuePress builds your static website in the `/docs` folder which is set to be use
 
 ## Demo
 
-See this page server via Gitlab Pages on https://scriptex.github.io/github-pages-vuepress/
+See this page served via Gitlab Pages on https://scriptex.js.org/github-pages-vuepress/
 
 ## Bonus: Theming
 
