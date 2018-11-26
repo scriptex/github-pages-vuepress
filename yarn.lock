@@ -5787,9 +5787,9 @@ vuepress-html-webpack-plugin@^3.2.0:
     toposort "^1.0.0"
     util.promisify "1.0.0"
 
-vuepress@0.14.7:
-  version "0.14.7"
-  resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-0.14.7.tgz#e5ae7038ea77bf3da3e4068a8b70a26cd80b0751"
+vuepress@0.14.8:
+  version "0.14.8"
+  resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-0.14.8.tgz#1e0a70a64c19e82e365eb7313b1ec88cc4ad7ab3"
   dependencies:
     "@babel/core" "7.0.0-beta.47"
     "@vue/babel-preset-app" "3.0.0-beta.11"
