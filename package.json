@@ -1,12 +1,12 @@
 {
 	"name": "github-pages-vuepress",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "Static website built with VuePress and deployed on Github Pages",
 	"scripts": {
 		"start": "vuepress dev",
 		"build": "vuepress build"
 	},
-	"repository": "https://gitlab.com/scriptex/github-pages-vuepress",
+	"repository": "https://github.com/scriptex/github-pages-vuepress",
 	"keywords": [
 		"VuePress",
 		"Gitlab",
