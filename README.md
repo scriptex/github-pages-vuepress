@@ -60,6 +60,10 @@ If you wish to use a more complicated files/folders structure, make sure that yo
 
 VuePress builds your static website in the `/docs` folder which is set to be used by Github Pages in the repository settings.
 
+**Important**
+
+You can control the base dir of your site in the `.vuepress/config.js` file's `base` property.
+
 ## Demo
 
 See this page served via Gitlab Pages on https://scriptex.js.org/github-pages-vuepress/
