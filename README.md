@@ -56,7 +56,7 @@ The `README.md` file in the root serves the purpose of `index.html` file.
 
 If you wish to create new pages, you can do so by adding new `.md` files in the root.
 
-If you wish to use a more complicated files/folders structure, make sure that you read and follow the [VuePress usage reference](https://vuepress.vuejs.org/).
+If you wish to use a more complicated files/folders structure, make sure that you read and follow the [official docs](https://vuepress.vuejs.org/guide/directory-structure.html#default-page-routing) or just checkout how I did it in the [demo branch](https://github.com/scriptex/github-pages-vuepress/tree/demo)
 
 VuePress builds your static website in the `/docs` folder which is set to be used by Github Pages in the repository settings.
 
