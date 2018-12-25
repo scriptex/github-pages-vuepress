@@ -2,7 +2,6 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/scriptex/github-pages-vuepress.svg)](https://github.com/scriptex/github-pages-vuepress/commits/master)
 [![Build Status](https://travis-ci.org/scriptex/github-pages-vuepress.svg?branch=master)](https://travis-ci.org/scriptex/github-pages-vuepress)
 [![Analytics](https://ga-beacon.appspot.com/UA-83446952-1/github.com/scriptex/github-pages-vuepress/README.md)](https://github.com/scriptex/github-pages-vuepress/)
-[![Greenkeeper badge](https://badges.greenkeeper.io/scriptex/github-pages-vuepress.svg)](https://greenkeeper.io/)
 
 # VuePress Github Pages
 
