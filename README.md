@@ -70,9 +70,9 @@ See this page served via Gitlab Pages on https://scriptex.js.org/github-pages-vu
 ## Bonus: Theming
 
 Vuepress uses [Stylus](http://stylus-lang.com/). It comes with default theme which can be easily overwritten.
-Just place your styles in the `override.styl` file in the `.vuepress` folder.
+Just place your styles in the `.vuepress/styles` folder.
 
-Here are the **default theme** colors:
+Here are the **default theme** colors. Variables should go in the `palette.styl` file:
 
 ```stylus
 $accentColor = #3eaf7c
@@ -83,13 +83,18 @@ $codeBgColor = #282c34
 
 Here are the colors and settings for a **Material Light** theme:
 
+Variables should go in the `palette.styl` file:
+
 ```stylus
 $accentColor = #009688
 $textColor = #212121
 $borderColor = #bdbdbd
 $codeBgColor = #333
 $bgColor = #fff
+```
 
+The rest of the styles should go in the `index.styl` file:
+```stylus
 html,
 body,
 .navbar,
@@ -112,12 +117,14 @@ body,
 Here are the color for a **Material Dark** theme (used in my personal website):
 
 ```stylus
+/* .vuepress/styles/palette.styl */
 $accentColor = #ef4c23
 $textColor = #fff
 $borderColor = #bdbdbd
 $codeBgColor = #000
 $bgColor = #263238
 
+/* .vuepress/styles/index.styl */
 html,
 body,
 .navbar,
