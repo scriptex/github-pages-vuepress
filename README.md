@@ -1,6 +1,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/scriptex/github-pages-vuepress.svg)](https://github.com/scriptex/github-pages-vuepress/issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/scriptex/github-pages-vuepress.svg)](https://github.com/scriptex/github-pages-vuepress/commits/master)
-[![Build Status](https://travis-ci.org/scriptex/github-pages-vuepress.svg?branch=master)](https://travis-ci.org/scriptex/github-pages-vuepress)
+[![Build Status](https://travis-ci.com/scriptex/github-pages-vuepress.svg?branch=master)](https://travis-ci.com/scriptex/github-pages-vuepress)
 [![Analytics](https://ga-beacon.appspot.com/UA-83446952-1/github.com/scriptex/github-pages-vuepress/README.md)](https://github.com/scriptex/github-pages-vuepress/)
 
 # VuePress Github Pages
@@ -142,6 +142,12 @@ body,
 .theme-container .content code
 	background-color $codeBgColor
 ```
+
+## Support this project
+
+[![Tweet](https://img.shields.io/badge/Tweet-Share_this_repository-blue.svg?style=flat-square&logo=twitter&color=38A1F3)](https://twitter.com/intent/tweet?text=Checkout%20this%20awesome%20software%20project%3A&url=https%3A%2F%2Fgithub.com%2Fscriptex%2Fgithub-pages-vuepress&via=scriptexbg&hashtags=software%2Cgithub%2Ccode%2Cawesome)
+[![Donate](https://img.shields.io/badge/Donate-Support_me_on_PayPal-blue.svg?style=flat-square&logo=paypal&color=222d65)](https://www.paypal.me/scriptex)
+[![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413)](https://www.patreon.com/atanas)
 
 ## LICENSE
 
