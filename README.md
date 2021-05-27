@@ -94,6 +94,7 @@ $bgColor = #fff
 ```
 
 The rest of the styles should go in the `index.styl` file:
+
 ```stylus
 html,
 body,
