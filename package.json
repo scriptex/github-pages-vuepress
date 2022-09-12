@@ -2,18 +2,27 @@
 	"name": "github-pages-vuepress",
 	"version": "1.1.0",
 	"description": "Static website built with VuePress and deployed on Github Pages",
+	"keywords": [
+		"VuePress",
+		"Github Pages",
+		"Static Site Generator"
+	],
+	"homepage": "https://atanas.info/projects/github-pages-vuepress.html",
+	"bugs": {
+		"url": "https://github.com/scriptex/github-pages-vuepress/issues",
+		"email": "hi@atanas.info"
+	},
+	"license": "MIT",
+	"author": "Atanas Atanasov <hi@atanas.info> (https://atanas.info)",
+	"funding": "https://github.com/sponsors/scriptex",
+	"repository": {
+		"type": "git",
+		"url": "github:scriptex/github-pages-vuepress"
+	},
 	"scripts": {
 		"start": "vuepress dev",
 		"build": "vuepress build"
 	},
-	"repository": "https://github.com/scriptex/github-pages-vuepress",
-	"keywords": [
-		"VuePress",
-		"Gitlab",
-		"Pages"
-	],
-	"author": "Atanas Atanasov <scriptex.bg@gmail.com> (https://atanas.info)",
-	"license": "MIT",
 	"devDependencies": {
 		"vuepress": "1.9.7"
 	}
