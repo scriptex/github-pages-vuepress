@@ -20,8 +20,8 @@
 		"url": "github:scriptex/github-pages-vuepress"
 	},
 	"scripts": {
-		"start": "vuepress dev",
-		"build": "vuepress build"
+		"start": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress dev",
+		"build": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress build"
 	},
 	"devDependencies": {
 		"vuepress": "1.9.9"
