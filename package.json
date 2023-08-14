@@ -24,6 +24,6 @@
 		"build": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress build"
 	},
 	"devDependencies": {
-		"vuepress": "1.9.9"
+		"vuepress": "1.9.10"
 	}
 }
